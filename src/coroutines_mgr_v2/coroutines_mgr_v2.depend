@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1622301485 source:d:\programming\programming_dev\current_projects\co_mgr_prj_v2\glcd\glcd.c
+	"../coroutines_mgr_v2/coroutines_mgr_v2.h"
+	"glcd.h"
+
+1622117143 d:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr\coroutines_mgr_v2.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<inttypes.h>
+
+1618158604 d:\programming\programming_dev\current_projects\co_mgr_prj_v2\glcd\glcd.h
+
+1622940033 source:d:\programming\programming_dev\current_projects\co_mgr_prj_v2\modules\modules.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	"../coroutines_mgr_v2/coroutines_mgr_v2.h"
+	"modules.h"
+
+1621554504 d:\programming\programming_dev\current_projects\co_mgr_prj_v2\modules\modules.h
+
+1622117399 source:d:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr\coroutines_mgr_v2.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"coroutines_mgr_v2.h"
+	"../modules/modules.h"
+
+1622796271 source:d:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_mgr_v2.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"coroutines_mgr_v2.h"
+	"../modules/modules.h"
+
+1622662453 d:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_mgr_v2.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<inttypes.h>
+
+1622737282 source:d:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	"coroutines_mgr_v2.h"
+	"../modules/modules.h"
+	"../glcd/glcd.h"
+
+1622301486 source:e:\programming\programming_dev\current_projects\co_mgr_prj_v2\glcd\glcd.c
+	"../coroutines_mgr_v2/coroutines_mgr_v2.h"
+	"glcd.h"
+
+1625620992 e:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_mgr_v2.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<inttypes.h>
+
+1618158606 e:\programming\programming_dev\current_projects\co_mgr_prj_v2\glcd\glcd.h
+
+1622940034 source:e:\programming\programming_dev\current_projects\co_mgr_prj_v2\modules\modules.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	"../coroutines_mgr_v2/coroutines_mgr_v2.h"
+	"modules.h"
+
+1621554506 e:\programming\programming_dev\current_projects\co_mgr_prj_v2\modules\modules.h
+
+1622796272 source:e:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_mgr_v2.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"coroutines_mgr_v2.h"
+	"../modules/modules.h"
+
+1622940086 source:e:\programming\programming_dev\current_projects\co_mgr_prj_v2\coroutines_mgr_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	"coroutines_mgr_v2.h"
+	"../modules/modules.h"
+	"../glcd/glcd.h"
+
+1622301486 source:c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\glcd\glcd.c
+	"../coroutines_mgr_v2/coroutines_mgr_v2.h"
+	"glcd.h"
+
+1659822779 c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_mgr_v2.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<inttypes.h>
+
+1618158606 c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\glcd\glcd.h
+
+1659915988 source:c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\modules\modules.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	"../coroutines_mgr_v2/coroutines_mgr_v2.h"
+	"../thread_task_mgr/thread_task_mgr.h"
+	"modules.h"
+
+1659848345 c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\modules\modules.h
+
+1659927575 source:c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\coroutines_mgr_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	"coroutines_mgr_v2.h"
+	"../thread_task_mgr/thread_task_mgr.h"
+	"../modules/modules.h"
+	"../glcd/glcd.h"
+
+1658618742 source:c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_mgr_v2.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"coroutines_mgr_v2.h"
+	"../modules/modules.h"
+
+1658242261 source:c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_functions.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"coroutines_mgr_v2.h"
+	"coroutines_functions.h"
+	"../modules/modules.h"
+
+1658242238 c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\coroutines_mgr_v2\coroutines_functions.h
+
+1659461511 source:c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\thread_task_mgr\thread_task_mgr.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"thread_task_mgr.h"
+
+1659927257 c:\users\wopre\onedrive\desktop\shared_work\co_mgr_prj_v2\thread_task_mgr\thread_task_mgr.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<inttypes.h>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="coroutines_mgr_v2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/fun_ptr_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-Wuninitialized" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../glcd/glcd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../glcd/glcd.h" />
+		<Unit filename="../modules/modules.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../modules/modules.h" />
+		<Unit filename="../thread_task_mgr/thread_task_mgr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../thread_task_mgr/thread_task_mgr.h" />
+		<Unit filename="coroutines_mgr_v2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coroutines_mgr_v2.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
