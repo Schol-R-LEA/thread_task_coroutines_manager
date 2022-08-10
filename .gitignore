@@ -1,2 +1,8 @@
 bin/*
 obj/*
+*.obj
+*.o
+*.exe
+Makefile
+.codetogether.ignore
+.vscode/task.json

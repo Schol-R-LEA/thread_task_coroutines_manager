@@ -10,7 +10,8 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 // functions definitions
-unsigned long millis(void){
+unsigned long millis(void)
+{
     unsigned long t_val;
     t_val = GetTickCount();
     return t_val;

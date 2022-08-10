@@ -98,10 +98,10 @@ int main(){
 // main thread
     bool thread;
 
-    uint8_t task1_cnts = 2, task2_cnts = 2;
-    uint8_t task1_cntr = 0, task2_cntr = 0;
-    bool task1_done, task1_state[task1_cnts];
-    bool task2_done, task2_state[task2_cnts];
+    // uint8_t task1_cnts = 2, task2_cnts = 2;
+    // uint8_t task1_cntr = 0, task2_cntr = 0;
+    bool task1_done; //, task1_state[task1_cnts];
+    // bool task2_done, task2_state[task2_cnts];
 
     bool SEN1_bit;
 
